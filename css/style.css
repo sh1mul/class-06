@@ -60,10 +60,11 @@ object-position: top;
 	text-align:center;
 	max-width: 469px;
 	margin: auto;
-	padding: 50px 0;
+	padding: 25px 0 30px;
 }
-.content-section{
+.content-section .container{
 
+padding: 20px 0px;
 }
 .container{
 
